@@ -1,0 +1,24 @@
+# WordPress core files
+/wp-admin/
+/wp-includes/
+*.php
+!wp-content/
+
+# Keep only our theme
+wp-content/*
+!wp-content/themes/
+wp-content/themes/*
+!wp-content/themes/twentytwentyfive/
+!wp-content/themes/twentytwentyfive-child/
+
+# Uploads and cache
+wp-content/uploads/
+wp-content/cache/
+
+# Configuration
+wp-config.php
+.htaccess
+
+# System files
+.DS_Store
+Thumbs.db
