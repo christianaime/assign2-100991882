@@ -1,0 +1,2 @@
+📋 Project Overview
+This repository contains a custom WordPress child theme built on the Twenty Twenty Five parent theme. The site focuses on Artificial Intelligence, covering major AI companies like OpenAI and Anthropic, industry trends, and the future of AI technology.
