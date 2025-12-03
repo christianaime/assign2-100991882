@@ -1,0 +1,77 @@
+/* Logged-in User Styles - Minimum 10 unique elements */
+
+/* 1. Body background */
+body {
+    background-color: #f0f4f8;
+}
+
+/* 2. Main headings */
+h1 {
+    color: #2c5282;
+    border-left: 4px solid #4299e1;
+    padding-left: 15px;
+}
+
+/* 3. Secondary headings */
+h2 {
+    color: #2d3748;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+/* 4. Links */
+a {
+    color: #3182ce;
+    text-decoration: underline;
+}
+
+/* 5. Link hover state */
+a:hover {
+    color: #2c5282;
+    background-color: #bee3f8;
+}
+
+/* 6. Buttons */
+.wp-block-button__link {
+    background-color: #4299e1;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* 7. Navigation menu */
+.wp-block-navigation {
+    background-color: #2d3748;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+/* 8. Post content area */
+.entry-content {
+    background-color: #ffffff;
+    padding: 30px;
+    border: 2px solid #e2e8f0;
+    border-radius: 10px;
+}
+
+/* 9. Featured images */
+.wp-block-post-featured-image img {
+    border: 3px solid #4299e1;
+    border-radius: 8px;
+    box-shadow: 0 10px 15px rgba(0, 0, 0, 0.1);
+}
+
+/* 10. Footer */
+footer {
+    background-color: #1a202c;
+    color: #e2e8f0;
+    padding: 20px;
+    border-top: 4px solid #4299e1;
+}
+
+/* 11. Blockquotes (bonus) */
+blockquote {
+    border-left: 5px solid #48bb78;
+    background-color: #f7fafc;
+    padding: 15px;
+    font-style: italic;
+}
